@@ -74,6 +74,11 @@ const API_SITES = {
         name: '极速资源',
         detail: 'https://jszyapi.com', 
     },
+    madou: {
+        api: 'https://91md.me/api.php/provide/vod',
+        name: '麻豆视频',
+        detail: 'https://91md.me', 
+    },
     dbzy: {
         api: 'https://dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
